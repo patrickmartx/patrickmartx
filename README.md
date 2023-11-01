@@ -1,7 +1,5 @@
 # patrickmartx
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=patrickmartx&theme=dracula&background=2b1329&dates=FFF)](https://git.io/streak-stats)
-
 ## Sobre
 
 Me chamo Patrick, nascido de 99 e sou estudante de Sistemas de Informação na UFF. Meu interesse pela programação nasceu através de um curso técnico feito pelo SENAI, cujo foco era manutenção de computadores, mas através de um projeto prático pude conhecer o Python.
