@@ -4,8 +4,6 @@
 
 Me chamo Patrick, nascido de 99 e sou estudante de Sistemas de Informação na UFF. Meu interesse pela programação nasceu através de um curso técnico feito pelo SENAI, cujo foco era manutenção de computadores, mas através de um projeto prático pude conhecer o Python.
 
-![Minha foto de perfil do GitHub](https://avatars.githubusercontent.com/u/101297477?v=4)
-
 Através da faculdade, obtive um apego maior pela linguagem de programação Java e por SGBD's. Meu foco é me tornar profissional Back-End completo sempre se atualizando com as demandas do mercado.
 
 ## Principais Tecnologias
