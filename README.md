@@ -9,7 +9,6 @@
   <br><br>
   - 🔭 Buscando sempre aplicar boas práticas e evoluir minhas habilidades.
   - 🌱 Aprendendo mais sobre Arquitetura de Software e DevOps (AWS, Docker).
-  - 💬 Fale comigo sobre: Java, Spring, Python, APIs e Boas Práticas!
 </p>
 
 ---
